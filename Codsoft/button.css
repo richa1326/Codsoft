@@ -1,0 +1,61 @@
+
+    
+      .scb { 
+        background-color: rgb(247, 241, 241);
+        font-weight:bolder;
+        font-size:30px;
+        font-family:Arial, Helvetica, sans-serif;
+        margin-left: 580px;
+        vertical-align: top;
+    
+        }
+    
+
+        .headline{
+          font-size: large;
+          font-family: Arial, Helvetica, sans-serif;
+          font-weight: bold;
+          color: black;
+        }
+
+        .para{
+          font-size:15px;;
+          font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+          font-weight: 150px;
+        }
+
+        .extra{
+           padding-top:5px;
+           font-size:30px;
+           font-family: 'Times New Roman', Times, serif;
+           font-weight: bolder;
+           margin-top:20px;
+           margin-left:400px;
+        }
+
+        .topics{
+            
+           font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+           font-size:25px;
+           float:none;
+        }
+
+        .image {  
+          width:400px;
+          height: 300px;;
+          }
+
+        .image1{
+          margin-right:15px;
+          width:350px;
+          height:290px;
+          float:left;
+          padding-top:40px;
+          padding-bottom:10px;
+        }
+
+        .end{
+           font-size: larger;
+           font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+           padding-block:50px;
+        }
